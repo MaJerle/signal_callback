@@ -84,7 +84,14 @@ main(void) {
     prod.do_something_that_can_emit(12);
     return 0;
 }
+```
 
+Running the above code will print:
+
+```
+Number changed to 10
+Number changed to 11
+Number changed to 12
 ```
 
 ## Contribute

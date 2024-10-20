@@ -29,7 +29,7 @@
  * This file is part of Signal - Simple callback system for C++.
  *
  * Author:          Tilen MAJERLE <tilen@majerle.eu>
- * Version:         v2.2.0
+ * Version:         v0.0.0
  */
 #ifndef SIGNAL_CALLBACK_HDR_HPP
 #define SIGNAL_CALLBACK_HDR_HPP
